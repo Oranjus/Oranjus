@@ -1,4 +1,5 @@
 <h3 align="left">Currently a student</h3>
+
 - 🌍 I'm based in **France**
 
 - 🧠 I'm learning **Blockhain/Solidity**
