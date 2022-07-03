@@ -1,11 +1,13 @@
+<p align="center">
+    <img align="center" src="(https://cdn.discordapp.com/attachments/399307094731390987/993193490722869398/French_Dev_NFT_Snealers.png)">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
 <h1 align="center">Hi I'm Code-Oz</h1>
 
 <!-- Intro -->
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=33eb1b&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
-    <h3 align="center">french developper</h3>
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=33eb1b&center=true&vCenter=true&lines=french+developper">
 </p>
 
 - 🌍 I'm based in **France**
