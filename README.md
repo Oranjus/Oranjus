@@ -1,5 +1,13 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.discordapp.com/attachments/399307094731390987/993193490722869398/French_Dev_NFT_Snealers.png))]
-<h3 align="left">Currently a student</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
+<h1 align="center">Hi I'm Code-Oz</h1>
+
+<!-- Intro -->
+
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+    <h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
+    <h3 align="center">I'm web developper and I make some application, writting some articles and making video on youtube for french 🥖 web dev</h3>
+</p>
 
 - 🌍 I'm based in **France**
 
